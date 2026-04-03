@@ -5,6 +5,9 @@
 This project presents an interactive **Excel Dashboard** designed to analyze and visualize data in a clear and dynamic way.
 The dashboard helps users quickly understand key insights, identify trends, and support data-driven decision making.
 
+![Dashboard preview](dashboard%20preview%20.png)
+
+
 ## Features
 
 * Interactive **Dashboard Interface**
@@ -48,8 +51,6 @@ excel-dashboard/
 
 **Zeina Alanour**
 
-
-![ Dashboard preview](dashboard preview .png)
 
 
 
